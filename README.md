@@ -1,2 +1,2 @@
-# Sea_Battle_in_browser
+# Sea Battle
 Simple Sea Battle game
